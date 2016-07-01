@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es5",
+        "outDir": "ES5",
+        "module":"commonjs",
+        "rootDir": "TypeScript",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "removeComments": false,
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "suppressImplicitAnyIndexErrors": true,
+        "noEmitOnError":true
+    },
+   "exclude": [
+    "node_modules",
+    "typings/jasmine/jasmine.d.ts"
+  ]
+}
