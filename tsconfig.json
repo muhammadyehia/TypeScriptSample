@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-       // "module": "system",
+      
         "target": "es5",
         "outDir": "ES5",
         "module":"commonjs",
